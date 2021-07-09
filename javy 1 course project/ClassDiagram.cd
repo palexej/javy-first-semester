@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Entity">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EBAAAgQgAAEAEACCACAAAAABgKAAAoAAAAAAAQAAAAE=</HashCode>
+      <FileName>Entity.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAQAAABA=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StaticGraphicElement">
+    <Position X="1" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAgACAAABBABAAAAKAAEAAAAAQAAAAAAQAAAYAAI=</HashCode>
+      <FileName>StaticGraphicElement.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextWindow">
+    <Position X="10.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAgAAAAgBBABAAIAAAAAAAAAAQAAAAAAAAEAQAAI=</HashCode>
+      <FileName>TextWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Timer">
+    <Position X="8.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAEAAAAAgAhAAAAQAgEAEoAA=</HashCode>
+      <FileName>Timer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
